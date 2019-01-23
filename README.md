@@ -24,4 +24,10 @@ Make two lists that are 4^k long containing zeroes. First scan text and for each
 ## BurrowsWheelerTransformPatternMatching.py
 
 ## BetterBurrowsWheelerTransformPatternMatching.py
-Burrows Wheeler transform pattern matching with speed improvements through implementation of count matrix in addition to first to last mapping for faster jumping between columns of matrix as characters in query are searched. 
+Burrows Wheeler transform pattern matching with speed improvements through implementation of count matrix in addition to first to last mapping for faster jumping between columns of matrix as characters in query are searched.
+
+## GlobalAlignment.py
+For computing global alignment between two english words with functionality to define scoring matrix for precise point allocation for different character combinations. 
+
+## LocalAlignment.py
+For computing local alignment between two english words with functionality to define scoring matrix for precise point allocation for different character combinations. 
